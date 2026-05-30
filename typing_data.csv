@@ -1,0 +1,14 @@
+speed,backspaces,pause,error,label
+4.8,0,0.4,0.01,Calm
+5.2,0,0.3,0.01,Focused
+4.5,1,0.5,0.02,Calm
+5.5,0,0.2,0.01,Focused
+3.5,4,1.2,0.07,Nervous
+3.0,6,1.8,0.10,Nervous
+2.5,8,2.0,0.15,Stressed
+2.0,10,2.5,0.20,Stressed
+1.8,12,3.0,0.25,Deceptive
+2.2,11,2.7,0.22,Deceptive
+4.2,1,0.6,0.02,Calm
+5.0,0,0.3,0.01,Focused
+3.2,5,1.5,0.09,Nervous
